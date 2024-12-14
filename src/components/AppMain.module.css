@@ -1,0 +1,15 @@
+.card {
+    margin: 0 auto;
+    width: 50%;
+    background-color: #c6ba98;
+    border-radius: 20px;
+    overflow: hidden;
+}
+
+.card div {
+    padding: 20px;
+}
+
+.card p {
+    padding: 15px 0 15px 0;
+}
