@@ -2,4 +2,7 @@ footer {
     padding: 10px;
     margin-top: 20px;
     background-color: rgba(104, 104, 104, 0.567);
+    position: relative !important;
+    bottom: 0 !important;
+    left: 0 !important;
 }

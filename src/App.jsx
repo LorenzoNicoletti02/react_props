@@ -13,7 +13,7 @@ import AppMain from './components/AppMain'
 function App() {
 
 // Array di elementi passando le proprietà dell'oggetto richiesto alla funzione
-const arrayPostJsx = posts.map((curPost) => <AppMain img={curPost.image} title={curPost.title} description={curPost.content}/>)
+const arrayPostJsx = posts.map((curPost) => <AppMain key={curPost.id} img={curPost.image} title={curPost.title} description={curPost.content} published={curPost.published} tags={curPost.tags}/>)
 
   return (
     <>

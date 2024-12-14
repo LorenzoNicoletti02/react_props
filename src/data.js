@@ -1,8 +1,8 @@
 const posts = [
     {
       id: 1,
-      title: "Titolo del Post",
-      image: 'image1.jpg',
+      title: "Signore degli anelli",
+      image: 'lotr_img.jpg',
       content:
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit animi unde quasi enim non esse ratione voluptas voluptate, officiis veritatis magni blanditiis possimus nobis cum id inventore corporis deserunt hic.",
       tags: ["html", "css"],
@@ -10,8 +10,8 @@ const posts = [
     },
     {
       id: 2,
-      title: "Titolo del Post",
-      image: '',
+      title: "Lo Hobbit",
+      image: 'download.jpg',
       content:
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit animi unde quasi enim non esse ratione voluptas voluptate, officiis veritatis magni blanditiis possimus nobis cum id inventore corporis deserunt hic.",
       tags: ["js", "css"],
@@ -19,8 +19,8 @@ const posts = [
     },
     {
       id: 3,
-      title: "Titolo del Post",
-      image: '',
+      title: "Beren e Luthien",
+      image: 'Beren-e-Luthien-tolkien-nuovo-romanzo.jpg',
       content:
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit animi unde quasi enim non esse ratione voluptas voluptate, officiis veritatis magni blanditiis possimus nobis cum id inventore corporis deserunt hic.",
       tags: ["js", "php"],

@@ -13,3 +13,18 @@
 .card p {
     padding: 15px 0 15px 0;
 }
+
+.card {
+    margin-bottom: 20px;
+}
+
+.card span {
+    display: inline-block;
+    margin: 5px;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.card img {
+    width: 100%;
+}

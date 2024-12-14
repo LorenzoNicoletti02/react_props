@@ -1,6 +1,6 @@
 function AppHeader(){
     return (
-        <h1>Il signore degli anelli</h1>
+        <h1>Tolkien's book</h1>
     )
 }
 

@@ -31,4 +31,20 @@ button {
     border-radius: 5px;
     color: #ffffff;
     border: 0;
-} 
+}
+
+.html {
+    background-color: rgb(203, 85, 85);
+}
+
+.css {
+    background-color: #66937c;
+}
+
+.js {
+    background-color: rgb(105, 103, 221);
+}
+
+.php {
+    background-color: rgb(192, 132, 98);
+}
